@@ -36,6 +36,7 @@ Desktop.ini
 *.toc
 
 *.pdf
+!jupyterlab_student_guide.pdf
 
 # Files created while following the tutorial.
 /sine_curve.png
